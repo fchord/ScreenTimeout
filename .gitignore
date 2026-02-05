@@ -1,0 +1,56 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+TestResults/
+_publish/
+
+# Package directories
+packages/
+*.nupkg
+
+# Visual Studio cache/options
+*.cache
+*.log
+*.tlog
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+
+# Publish output / installers
+publish/
+*.zip
+
+# Generated resources
+*.resources.dll
+
+# SonarLint
+.sonarlint/
+
+# Ignore user-specific secrets or local settings
+appsettings.Development.json
+
+# Do not ignore project files, source code, or the embedded icon
+# (keep logo.ico and Properties/Resources.resx tracked)
